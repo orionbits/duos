@@ -5,9 +5,9 @@
 ## 🚀 The Pipeline logic
 The core of this project is a three-stage transformation process:
 
-1.  **Extraction:** Raw Textbook PDFs are converted into clean, structural Markdown using specialized extraction prompts (`extract.txt`).
-2.  **Answer Alignment:** Answer keys are extracted and normalized into a consistent Markdown format (`extract ans.txt`).
-3.  **Structuring:** An LLM-orchestrated prompt (`Prompt.md`) merges the content and answers into a strictly typed `begegnungen_a2_k1.json` file.
+1.  **Extraction:** Raw Textbook PDFs are converted into clean, structural Markdown using specialized extraction prompts (`prompt1.md`).
+2.  **Answer Alignment:** Answer keys are extracted and normalized into a consistent Markdown format (`prompt1.md`).
+3.  **Structuring:** An LLM-orchestrated prompt (`prompt2.md`) merges the content and answers into a typed json file.
 4.  **Deployment:** The JSON is served by the Next.js frontend to render interactive Fill-in-the-blank, Multiple Choice, and Vocabulary modules.
 
 ## 🛠️ Features
