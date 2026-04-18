@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "id": "kapitel_1",
+    "name": "Ausbildung und Tätigkeiten",
+    "cefr_level": "A2",
+    "total_lessons": 11
+  },
+  "lessons": [
+    {
+      "id": "lesson_A1",
+      "title": "Sich vorstellen",
+      "blocks": [
+        {
+          "id": "k1_a1_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Fragen Sie Ihre Nachbarin/Ihren Nachbarn und stellen Sie sie/ihn anschließend im Plenum vor.",
+            "questions": [
+              "Wie heißen Sie?/Wie ist Ihr Name?",
+              "Woher kommen Sie?",
+              "Wo wohnen Sie?",
+              "Welche Sprachen sprechen Sie?",
+              "Was sind Sie von Beruf?",
+              "Wo arbeiten Sie?",
+              "Wo studieren Sie?",
+              "Was sind Ihre Hobbys?",
+              "Waren Sie schon mal in (Österreich)?",
+              "Kennen Sie (Leipzig/einige Leute aus der Gruppe)?",
+              "Können Sie (kochen)?"
+            ],
+            "example_answer": "Meine Nachbarin/Mein Nachbar heißt … Sie/Er kommt aus …"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_A2",
+      "title": "Pedro und Martina",
+      "blocks": [
+        {
+          "id": "k1_a2_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Hören und lesen Sie. Beantworten Sie die Fragen.",
+            "questions": [
+              "Wo ist Pedro geboren?",
+              "Wo ist Martina zur Schule gegangen?",
+              "Was und wo hat Pedro studiert? Wann hat er das Studium abgeschlossen?",
+              "Welche Berufsausbildung hat Martina gemacht? Wann hat sie die Ausbildung abgeschlossen?",
+              "Welche Ausbildung haben Sie gemacht? Wann haben Sie die Ausbildung/das Studium abgeschlossen?",
+              "Wo arbeitet Pedro? Wo arbeitet Martina?",
+              "Was muss Pedro bei der Arbeit machen?",
+              "Was muss Martina bei der Arbeit machen?",
+              "Wo wohnt Pedro? Wo wohnt Martina?",
+              "Ist Martina verheiratet? Ist Pedro verheiratet?",
+              "Was macht Pedro in seiner Freizeit? Was macht Martina in ihrer Freizeit?"
+            ]
+          }
+        },
+        {
+          "id": "k1_a4_vocab",
+          "type": "vocabulary",
+          "content": {
+            "instructions": "Was passt zusammen? Kombinieren Sie. Manchmal gibt es mehrere Lösungen.",
+            "words": [
+              { "german": "E-Mails", "meaning": "Emails", "part_of_speech": "noun", "gender": "die" },
+              { "german": "ein Studium", "meaning": "a degree program", "part_of_speech": "noun", "gender": "das" },
+              { "german": "eine Ausbildung", "meaning": "an apprenticeship/training", "part_of_speech": "noun", "gender": "die" },
+              { "german": "zur Schule", "meaning": "to school", "part_of_speech": "phrase" },
+              { "german": "Fachzeitschriften", "meaning": "trade journals", "part_of_speech": "noun", "gender": "die" },
+              { "german": "Fußball", "meaning": "soccer", "part_of_speech": "noun", "gender": "der" },
+              { "german": "mit Kunden", "meaning": "with customers", "part_of_speech": "phrase" },
+              { "german": "Biologie", "meaning": "biology", "part_of_speech": "noun", "gender": "die" },
+              { "german": "Termine", "meaning": "appointments", "part_of_speech": "noun", "gender": "die" },
+              { "german": "bei den Eltern", "meaning": "with the parents", "part_of_speech": "phrase" }
+            ],
+            "matches": [
+              { "item": "E-Mails", "matches": ["lesen", "schreiben"] },
+              { "item": "ein Studium", "matches": ["abschließen"] },
+              { "item": "eine Ausbildung", "matches": ["machen", "abschließen"] },
+              { "item": "zur Schule", "matches": ["gehen"] },
+              { "item": "Fachzeitschriften", "matches": ["lesen"] },
+              { "item": "Fußball", "matches": ["spielen"] },
+              { "item": "mit Kunden", "matches": ["telefonieren"] },
+              { "item": "Biologie", "matches": ["studieren"] },
+              { "item": "Termine", "matches": ["vereinbaren"] },
+              { "item": "bei den Eltern", "matches": ["wohnen"] }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_A5_A6",
+      "title": "Berufe und Tätigkeiten",
+      "blocks": [
+        {
+          "id": "k1_a5_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Ordnnen Sie den Zeichnungen die passenden Berufe zu.",
+            "answers": [
+              "Schauspieler und Schauspielerin",
+              "Informatiker",
+              "Kauffrau für Büromanagement",
+              "Lehrerin",
+              "Fußballspieler",
+              "Student",
+              "Kellner",
+              "Arzt",
+              "Marketingmanagerin"
+            ]
+          }
+        },
+        {
+          "id": "k1_a6_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Ordnen Sie den Berufen passende Tätigkeiten zu.",
+            "questions": [
+              "Eine Büromanagerin",
+              "Ein Informatiker",
+              "Ein Arzt",
+              "Eine Lehrerin",
+              "Ein Kellner",
+              "Ein Fußballspieler",
+              "Eine Marketingmanagerin",
+              "Ein Student"
+            ],
+            "answers": [
+              "Eine Büromanagerin vereinbart Termine, beantwortet E-Mails und telefoniert mit Kunden.",
+              "Ein Informatiker löst Computerprobleme.",
+              "Ein Arzt führt Gespräche mit Patienten und hilft kranken Menschen.",
+              "Eine Lehrerin unterrichtet Kinder.",
+              "Ein Kellner bedient Gäste.",
+              "Ein Fußballspieler schießt ein Tor/schießt Tore.",
+              "Eine Marketingmanagerin entwickelt Marketingstrategien, hat viele Besprechungen und präsentiert Ideen.",
+              "Ein Student lernt viel und liest viele Bücher."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_A7",
+      "title": "Berufe mit hohem Ansehen in Österreich",
+      "blocks": [
+        {
+          "id": "k1_a7_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Welche Berufe haben ein hohes Ansehen? Diskutieren Sie und ergänzen Sie Platz eins bis sechs.",
+            "answers": {
+              "Platz 1": "Pilot",
+              "Platz 2": "Popstar",
+              "Platz 3": "Chefarzt",
+              "Platz 4": "Manager",
+              "Platz 5": "Feuerwehrmann",
+              "Platz 6": "Fußballer"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_A9",
+      "title": "Über Vergangenes berichten",
+      "blocks": [
+        {
+          "id": "k1_a9_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Bilden Sie Fragen und antworten Sie.",
+            "questions": [
+              "ein Brot backen",
+              "nach New York fliegen",
+              "mit dem Motorrad fahren",
+              "einen Fisch fangen",
+              "ein Gedicht schreiben",
+              "an der Nordsee Urlaub machen",
+              "ein Buch auf Deutsch lesen",
+              "in einem Fünf-Sterne-Hotel übernachten",
+              "eine Currywurst essen",
+              "eine E-Mail an die falsche Adresse senden",
+              "hässliche Schuhe kaufen",
+              "einen Brief ins Japanische übersetzen",
+              "ein Computerproblem lösen",
+              "ein Weihnachtslied singen"
+            ],
+            "answer_key_verbs": [
+              "gebacken",
+              "geflogen",
+              "gefahren",
+              "gefangen",
+              "geschrieben",
+              "gemacht",
+              "gelesen",
+              "übernachtet",
+              "gegessen",
+              "gesendet",
+              "gekauft",
+              "übersetzt",
+              "gelöst",
+              "gesungen"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_A11",
+      "title": "Schulzeit",
+      "blocks": [
+        {
+          "id": "k1_a11_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Hören Sie die Berichte und ergänzen Sie die Informationen.",
+            "answers": {
+              "Matthias": ["schlechter", "Sport", "Fußball", "Deutsch", "interessiert", "(um) halb acht/7.30 Uhr", "Spaß"],
+              "Susanne": ["Schülerin", "Sprachen", "Englisch", "arbeitet", "Hausaufgaben", "um 8.00 Uhr", "freitags"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_A13_A15",
+      "title": "Das Schulsystem in Deutschland",
+      "blocks": [
+        {
+          "id": "k1_a13_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Betrachten Sie die Grafik und lesen Sie die Wörter laut. Lesen Sie den Text zur Grafik und ergänzen Sie die fehlenden Wörter.",
+            "answers": ["Kindergarten", "Grundschule", "Gymnasium", "Universität", "Mittleren", "Berufsausbildung", "Berufsfachschule"]
+          }
+        },
+        {
+          "id": "k1_a15_vocab",
+          "type": "vocabulary",
+          "content": {
+            "instructions": "Ergänzen Sie die fehlenden Nomen.",
+            "words": [
+              { "german": "Schüler", "meaning": "student (male)", "part_of_speech": "noun", "gender": "der" },
+              { "german": "Fächer", "meaning": "subjects", "part_of_speech": "noun", "gender": "die" },
+              { "german": "Grundschule", "meaning": "elementary school", "part_of_speech": "noun", "gender": "die" },
+              { "german": "das Rechnen", "meaning": "arithmetic", "part_of_speech": "noun", "gender": "das" },
+              { "german": "Schule", "meaning": "school", "part_of_speech": "noun", "gender": "die" },
+              { "german": "Gymnasium", "meaning": "high school (college prep)", "part_of_speech": "noun", "gender": "das" },
+              { "german": "Mathematiklehrerin", "meaning": "math teacher (female)", "part_of_speech": "noun", "gender": "die" },
+              { "german": "Noten", "meaning": "grades", "part_of_speech": "noun", "gender": "die" },
+              { "german": "Hausaufgaben", "meaning": "homework", "part_of_speech": "noun", "gender": "die" },
+              { "german": "Fußball", "meaning": "soccer", "part_of_speech": "noun", "gender": "der" },
+              { "german": "Abitur", "meaning": "high school diploma (college entrance)", "part_of_speech": "noun", "gender": "das" },
+              { "german": "Universität", "meaning": "university", "part_of_speech": "noun", "gender": "die" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_A16",
+      "title": "Lebensläufe",
+      "blocks": [
+        {
+          "id": "k1_a16_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Hören Sie den Bericht von Sandra und ergänzen Sie im Lebenslauf die fehlenden Informationen.",
+            "answers": {
+              "geburtstag": "1980",
+              "geburtsort": "Düsseldorf",
+              "gymnasium_end": "2012",
+              "abitur": "2012",
+              "studium_geschichte": "Geschichte",
+              "hochschule": "Bremen",
+              "auslandssemester": "Manchester",
+              "abschluss": "Ingenieurin",
+              "praktikum": "Praktikum",
+              "position": "Mitarbeiterin"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_A17",
+      "title": "Der Lebenslauf von Peter Meier",
+      "blocks": [
+        {
+          "id": "k1_a17_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Was haben Sie über Peter erfahren? Bilden Sie Sätze und berichten Sie.",
+            "answers": [
+              "Von 2008 bis 2011 hat er Volkswirtschaftslehle (VWL) an der Universität Leipzig studiert.",
+              "Sein Schwerpunkt war Finanzökonomie.",
+              "Danach hat er von 2011 bis 2013 ein Masterstudium an der Handelshochschule Leipzig absolviert.",
+              "Im Sommer 2012 hat Peter ein Praktikum bei der Deutschen Bank in Leipzig gemacht und Arbeitserfahrungen gesammelt.",
+              "2013 hat er sein Studium mit dem Master of Science abgeschlossen.",
+              "Von 2013 bis 2015 hat er als Mitarbeiter in der Abteilung Strategie und Kontrolle bei Siemens in München gearbeitet.",
+              "Seit 2016 ist Peter Marketingmanager bei KODAX in Leipzig.",
+              "Er spricht sehr gut Englisch und gut Französisch.",
+              "Er beherrscht Microsoft Office."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_A21_A22",
+      "title": "Reflexive Verben",
+      "blocks": [
+        {
+          "id": "k1_a21_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Ergänzen Sie die passenden Verben. Sagen Sie es im Perfekt.",
+            "answers_present": [
+              "Kathrin kämmt sich.",
+              "Oma schminkt sich.",
+              "Klaus wäscht sich.",
+              "Marie zieht sich an.",
+              "Otto ärgert sich.",
+              "Kathrin und Max unterhalten sich.",
+              "Karl interessiert sich für Briefmarken.",
+              "Dr. Müller stellt sich vor.",
+              "Kathrin und Max streiten sich."
+            ],
+            "answers_perfect": [
+              "Kathrin hat sich gekämmt.",
+              "Oma hat sich geschminkt.",
+              "Klaus hat sich gewaschen.",
+              "Marie hat sich angezogen.",
+              "Otto hat sich geärgert.",
+              "Kathrin und Max haben sich unterhalten.",
+              "Karl hat sich für Briefmarken interessiert.",
+              "Dr. Müller hat sich vorgestellt.",
+              "Kathrin und Max haben sich gestritten."
+            ]
+          }
+        },
+        {
+          "id": "k1_a22_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Bilden Sie Sätze im Perfekt.",
+            "answers": [
+              "Ja, ich habe mich geärgert.",
+              "Ja, er hat sich schon geföhnt.",
+              "Ja, ich habe mich schon angezogen.",
+              "Ja, er hat sich schon geduscht.",
+              "Ja, wir haben uns schon bedankt.",
+              "Ja, er hat sich beschwert.",
+              "Ja, ich habe mich verliebt.",
+              "Ja, sie hat sich erkältet.",
+              "Ja, sie haben sich gestritten.",
+              "Ja, ich habe mich schon geschminkt."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_A25",
+      "title": "Betriebsrundgang: Der Genitiv",
+      "blocks": [
+        {
+          "id": "k1_a25_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Ergänzen Sie die Angaben im Genitiv.",
+            "answers": [
+              "Die Firma liegt sehr günstig, gleich in der Nähe des Bahnhofs.",
+              "In der Nähe des Eingangs ist der Fahrstuhl.",
+              "Das hier ist das Zimmer der Chefsekretärin und dahinter liegt das Zimmer des Direktors.",
+              "Dieser große Schreibtisch ist natürlich der Schreibtisch des Chefs.",
+              "Hier stehen unsere Hauptrechner. Das ist der Arbeitsbereich der Informatiker.",
+              "Gleich daneben finden Sie die Praxis des Betriebsarztes.",
+              "Das ist die Kantine der Mitarbeiter.",
+              "Ganz anders schmeckt das Essen in der Kantine des Managements. Das Management hat einen Extra-Koch, einen Koch der Spitzenklasse!"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_B3_B6",
+      "title": "Wissenswertes: Akademische Berufe",
+      "blocks": [
+        {
+          "id": "k1_b3_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Was ist richtig, was ist falsch?",
+            "answers": [
+              "richtig",
+              "falsch",
+              "falsch",
+              "richtig"
+            ]
+          }
+        },
+        {
+          "id": "k1_b5_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Welche Wörter haben synonyme Bedeutung? Ordnen Sie zu.",
+            "answers": [
+              { "question": "(1) die Stelle", "answer": "(d) der Job" },
+              { "question": "(2) arbeitslos sein", "answer": "(e) keine Arbeit haben" },
+              { "question": "(3) Zukunftsaussichten", "answer": "(a) Perspektiven" },
+              { "question": "(4) sparen", "answer": "(f) weniger Geld ausgeben" },
+              { "question": "(5) Chancen", "answer": "(c) Möglichkeiten" },
+              { "question": "(6) Karriere machen", "answer": "(b) beruflichen Erfolg haben" }
+            ]
+          }
+        },
+        {
+          "id": "k1_b6_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Ergänzen Sie die femininen Berufsbezeichnungen. Ordnen Sie die Tätigkeiten zu.",
+            "answers": [
+              { "beruf": "der Arzt", "feminin": "die Ärztin", "taetigkeit": "(b) hilft kranken Menschen" },
+              { "beruf": "der Architekt", "feminin": "die Architektin", "taetigkeit": "(h) entwirft neue Häuser" },
+              { "beruf": "der Deutschlehrer", "feminin": "die Deutschlehrerin", "taetigkeit": "(a) unterrichtet Schüler im Fach Deutsch" },
+              { "beruf": "der Apotheker", "feminin": "die Apothekerin", "taetigkeit": "(g) verkauft Medikamente" },
+              { "beruf": "der Ingenieur", "feminin": "die Ingenieurin", "taetigkeit": "(c) konstruiert z. B. Maschinen oder Autos" },
+              { "beruf": "der Informatiker", "feminin": "die Informatikerin", "taetigkeit": "(f) programmiert z. B. Computerspiele" },
+              { "beruf": "der Zahnarzt", "feminin": "die Zahnärztin", "taetigkeit": "(e) repariert kaputte Zähne" },
+              { "beruf": "der Physiker", "feminin": "die Physikerin", "taetigkeit": "(d) beschäftigt sich z. B. mit Atomen" },
+              { "beruf": "der Philosoph", "feminin": "die Philosophin", "taetigkeit": "(j) erklärt die Welt" },
+              { "beruf": "der Wirtschaftsmathematiker", "feminin": "die Wirtschaftsmathematikerin", "taetigkeit": "(k) rechnet mit Zahlen aus der Wirtschaft" },
+              { "beruf": "der Jurist", "feminin": "die Juristin", "taetigkeit": "(i) berät Menschen in Rechtsfragen" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_C1",
+      "title": "Verben im Präsens (Wiederholung)",
+      "blocks": [
+        {
+          "id": "k1_c1_ex",
+          "type": "exercise",
+          "content": {
+            "instructions": "Ergänzen Sie die Verben in der richtigen Form.",
+            "answers": [
+              "Hast",
+              "lernt",
+              "kommen",
+              "steht",
+              "liegt, liest",
+              "Fährst",
+              "Gibt",
+              "Trinkst",
+              "fliegt, bleibe",
+              "arbeitet",
+              "isst",
+              "Bist",
+              "spricht"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
