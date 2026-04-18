@@ -3,9 +3,9 @@
   "textbooks": [
     {
       "id": "begegnungen_a2_k1",
-      "name": "Begegnungen A2+",
+      "name": "Begegnungen A2+ Kapitel 1",
       "cefr_level": "A2",
-      "cover_image": "/covers/begegnungen_a2.jpg"
+      "cover_image": "/covers/k1.jpg"
     }
   ]
 }

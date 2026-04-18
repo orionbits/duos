@@ -1,9 +1,12 @@
 {
   "metadata": {
-    "id": "kapitel_1",
+    "id": "begegnungen_a2_k1",
     "name": "Ausbildung und Tätigkeiten",
     "cefr_level": "A2",
-    "total_lessons": 11
+    "publisher": "Schubert Verlag",
+    "edition": "Begegnungen A2+",
+    "main_topic": "Education, professions, daily routines, and past experiences",
+    "total_lessons": 15
   },
   "lessons": [
     {
@@ -11,24 +14,15 @@
       "title": "Sich vorstellen",
       "blocks": [
         {
-          "id": "k1_a1_ex",
-          "type": "exercise",
+          "id": "lesson_A1_content",
+          "type": "lesson",
           "content": {
-            "instructions": "Fragen Sie Ihre Nachbarin/Ihren Nachbarn und stellen Sie sie/ihn anschließend im Plenum vor.",
-            "questions": [
-              "Wie heißen Sie?/Wie ist Ihr Name?",
-              "Woher kommen Sie?",
-              "Wo wohnen Sie?",
-              "Welche Sprachen sprechen Sie?",
-              "Was sind Sie von Beruf?",
-              "Wo arbeiten Sie?",
-              "Wo studieren Sie?",
-              "Was sind Ihre Hobbys?",
-              "Waren Sie schon mal in (Österreich)?",
-              "Kennen Sie (Leipzig/einige Leute aus der Gruppe)?",
-              "Können Sie (kochen)?"
-            ],
-            "example_answer": "Meine Nachbarin/Mein Nachbar heißt … Sie/Er kommt aus …"
+            "title": "Sich vorstellen",
+            "text": "Fragen Sie Ihre Nachbarin/Ihren Nachbarn und stellen Sie sie/ihn anschließend im Plenum vor.\n\nWie heißen Sie?/Wie ist Ihr Name? Woher kommen Sie? Wo wohnen Sie? Welche Sprachen sprechen Sie? Was sind Sie von Beruf? Wo arbeiten Sie? Wo studieren Sie? Was sind Ihre Hobbys? Waren Sie schon mal in (Österreich)? Kennen Sie (Leipzig/einige Leute aus der Gruppe)? Können Sie (kochen)?\n\nMeine Nachbarin/Mein Nachbar heißt … Sie/Er kommt aus …",
+            "objectives": [
+              "Sich und andere vorstellen",
+              "Berufe und Tätigkeiten nennen"
+            ]
           }
         }
       ]
@@ -38,170 +32,734 @@
       "title": "Pedro und Martina",
       "blocks": [
         {
-          "id": "k1_a2_ex",
-          "type": "exercise",
+          "id": "lesson_A2_dialogue",
+          "type": "dialogue",
           "content": {
-            "instructions": "Hören und lesen Sie. Beantworten Sie die Fragen.",
-            "questions": [
-              "Wo ist Pedro geboren?",
-              "Wo ist Martina zur Schule gegangen?",
-              "Was und wo hat Pedro studiert? Wann hat er das Studium abgeschlossen?",
-              "Welche Berufsausbildung hat Martina gemacht? Wann hat sie die Ausbildung abgeschlossen?",
-              "Welche Ausbildung haben Sie gemacht? Wann haben Sie die Ausbildung/das Studium abgeschlossen?",
-              "Wo arbeitet Pedro? Wo arbeitet Martina?",
-              "Was muss Pedro bei der Arbeit machen?",
-              "Was muss Martina bei der Arbeit machen?",
-              "Wo wohnt Pedro? Wo wohnt Martina?",
-              "Ist Martina verheiratet? Ist Pedro verheiratet?",
-              "Was macht Pedro in seiner Freizeit? Was macht Martina in ihrer Freizeit?"
+            "context": "Pedro Gomez and Martina Klein introduce themselves.",
+            "lines": [
+              {
+                "speaker": "Pedro",
+                "german": "Hallo. Mein Name ist Pedro Gomez. Ich bin 33 Jahre alt. Ich komme aus Spanien. Mein Geburtsort ist Barcelona. Ich bin in Barcelona zur Schule gegangen. Danach habe ich in Madrid Biologie studiert. 2015 habe ich mein Studium mit dem Masterdiplom abgeschlossen. Nach dem Studium habe ich ein Jahr bei der Firma Santos gearbeitet. 2016 bin ich nach München umgezogen. Ich habe in München eine Stelle beim Europäischen Patentamt bekommen. Dort arbeite ich als Patentprüfer. Ich muss viele Patente lesen und Briefe an Patentanwälte schreiben. Ich bin verheiratet und wohne mit meiner Frau in einer kleinen Wohnung im Zentrum von München. Die Wohnung ist sehr teuer. In meiner Freizeit spiele ich Fußball oder lese Fachzeitschriften.",
+                "translation": "Hello. My name is Pedro Gomez. I am 33 years old. I come from Spain. My birthplace is Barcelona. I went to school in Barcelona. Then I studied Biology in Madrid. In 2015 I completed my studies with a master's degree. After my studies I worked for one year at the company Santos. In 2016 I moved to Munich. I got a position at the European Patent Office in Munich. There I work as a patent examiner. I have to read many patents and write letters to patent attorneys. I am married and live with my wife in a small apartment in the center of Munich. The apartment is very expensive. In my free time I play soccer or read trade journals."
+              },
+              {
+                "speaker": "Martina",
+                "german": "Ich heiße Martina Klein. Ich bin 24 Jahre alt und wohne in Berlin. Ich bin in Berlin geboren und auch hier zur Schule gegangen. Nach der Schule habe ich eine Ausbildung zur Kauffrau für Büromanagement gemacht. Diese Ausbildung habe ich 2018 abgeschlossen. Seit 2018 arbeite ich als Büromanagerin bei KAKO. Ich muss viele E-Mails lesen und schreiben, mit Kunden telefonieren und für verschiedene Kolleginnen und Kollegen Termine vereinbaren. Ich bin noch ledig und wohne bei meinen Eltern. Die Miete in Berlin ist teuer und ich möchte mein Geld lieber für andere Dinge ausgeben. In meiner Freizeit lese ich gern. Manchmal gehe ich mit meinen Freunden ins Kino.",
+                "translation": "My name is Martina Klein. I am 24 years old and live in Berlin. I was born in Berlin and also went to school here. After school I completed training as a management assistant in office management. I completed this training in 2018. Since 2018 I work as an office manager at KAKO. I have to read and write many emails, phone with customers and schedule appointments for various colleagues. I am still single and live with my parents. Rent in Berlin is expensive and I prefer to spend my money on other things. In my free time I like to read. Sometimes I go to the movies with my friends."
+              }
             ]
           }
         },
         {
-          "id": "k1_a4_vocab",
+          "id": "lesson_A2_exercise",
+          "type": "exercise",
+          "content": {
+            "instructions": "Beantworten Sie die Fragen.",
+            "questions": [
+              {
+                "id": "q1",
+                "type": "fill-blank",
+                "text": "Wie alt ist Pedro?",
+                "correct_answer": "33 Jahre (alt)",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q2",
+                "type": "fill-blank",
+                "text": "Wie alt ist Martina?",
+                "correct_answer": "24 Jahre (alt)",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "fill-blank",
+                "text": "Wo ist Pedro geboren?",
+                "correct_answer": "Barcelona",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "fill-blank",
+                "text": "Wo ist Martina zur Schule gegangen?",
+                "correct_answer": "Berlin",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "fill-blank",
+                "text": "Was und wo hat Pedro studiert? Wann hat er das Studium abgeschlossen?",
+                "correct_answer": "Biologie in Madrid, 2015",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "fill-blank",
+                "text": "Welche Berufsausbildung hat Martina gemacht? Wann hat sie die Ausbildung abgeschlossen?",
+                "correct_answer": "Kauffrau für Büromanagement, 2018",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q7",
+                "type": "fill-blank",
+                "text": "Wo arbeitet Pedro? Wo arbeitet Martina?",
+                "correct_answer": "Pedro: Europäisches Patentamt in München; Martina: KAKO in Berlin",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q8",
+                "type": "fill-blank",
+                "text": "Was muss Pedro bei der Arbeit machen?",
+                "correct_answer": "Patente lesen und Briefe an Patentanwälte schreiben",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q9",
+                "type": "fill-blank",
+                "text": "Was muss Martina bei der Arbeit machen?",
+                "correct_answer": "E-Mails lesen/schreiben, mit Kunden telefonieren, Termine vereinbaren",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q10",
+                "type": "fill-blank",
+                "text": "Wo wohnt Pedro? Wo wohnt Martina?",
+                "correct_answer": "Pedro: München; Martina: Berlin",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q11",
+                "type": "fill-blank",
+                "text": "Ist Martina verheiratet? Ist Pedro verheiratet?",
+                "correct_answer": "Martina: nein (ledig); Pedro: ja",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q12",
+                "type": "fill-blank",
+                "text": "Was macht Pedro in seiner Freizeit? Was macht Martina in ihrer Freizeit?",
+                "correct_answer": "Pedro: Fußball spielen oder Fachzeitschriften lesen; Martina: lesen, mit Freunden ins Kino gehen",
+                "hint": null,
+                "explanation": null
+              }
+            ]
+          }
+        },
+        {
+          "id": "lesson_A2_vocab",
           "type": "vocabulary",
           "content": {
-            "instructions": "Was passt zusammen? Kombinieren Sie. Manchmal gibt es mehrere Lösungen.",
-            "words": [
-              { "german": "E-Mails", "meaning": "Emails", "part_of_speech": "noun", "gender": "die" },
-              { "german": "ein Studium", "meaning": "a degree program", "part_of_speech": "noun", "gender": "das" },
-              { "german": "eine Ausbildung", "meaning": "an apprenticeship/training", "part_of_speech": "noun", "gender": "die" },
-              { "german": "zur Schule", "meaning": "to school", "part_of_speech": "phrase" },
-              { "german": "Fachzeitschriften", "meaning": "trade journals", "part_of_speech": "noun", "gender": "die" },
-              { "german": "Fußball", "meaning": "soccer", "part_of_speech": "noun", "gender": "der" },
-              { "german": "mit Kunden", "meaning": "with customers", "part_of_speech": "phrase" },
-              { "german": "Biologie", "meaning": "biology", "part_of_speech": "noun", "gender": "die" },
-              { "german": "Termine", "meaning": "appointments", "part_of_speech": "noun", "gender": "die" },
-              { "german": "bei den Eltern", "meaning": "with the parents", "part_of_speech": "phrase" }
-            ],
-            "matches": [
-              { "item": "E-Mails", "matches": ["lesen", "schreiben"] },
-              { "item": "ein Studium", "matches": ["abschließen"] },
-              { "item": "eine Ausbildung", "matches": ["machen", "abschließen"] },
-              { "item": "zur Schule", "matches": ["gehen"] },
-              { "item": "Fachzeitschriften", "matches": ["lesen"] },
-              { "item": "Fußball", "matches": ["spielen"] },
-              { "item": "mit Kunden", "matches": ["telefonieren"] },
-              { "item": "Biologie", "matches": ["studieren"] },
-              { "item": "Termine", "matches": ["vereinbaren"] },
-              { "item": "bei den Eltern", "matches": ["wohnen"] }
+            "vocabulary": [
+              {
+                "id": "vocab_1",
+                "german": "ein Studium abschließen",
+                "meaning": "to complete a degree",
+                "part_of_speech": "verb",
+                "gender": null,
+                "plural": null,
+                "example": "2015 habe ich mein Studium abgeschlossen.",
+                "example_translation": "In 2015 I completed my degree.",
+                "notes": null
+              },
+              {
+                "id": "vocab_2",
+                "german": "eine Ausbildung machen",
+                "meaning": "to do vocational training",
+                "part_of_speech": "verb",
+                "gender": null,
+                "plural": null,
+                "example": "Nach der Schule habe ich eine Ausbildung gemacht.",
+                "example_translation": "After school I did vocational training.",
+                "notes": null
+              },
+              {
+                "id": "vocab_3",
+                "german": "zur Schule gehen",
+                "meaning": "to go to school",
+                "part_of_speech": "verb",
+                "gender": null,
+                "plural": null,
+                "example": "Ich bin in Berlin zur Schule gegangen.",
+                "example_translation": "I went to school in Berlin.",
+                "notes": null
+              },
+              {
+                "id": "vocab_4",
+                "german": "Fachzeitschriften lesen",
+                "meaning": "to read trade journals",
+                "part_of_speech": "verb",
+                "gender": null,
+                "plural": null,
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_5",
+                "german": "Fußball spielen",
+                "meaning": "to play soccer",
+                "part_of_speech": "verb",
+                "gender": null,
+                "plural": null,
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_6",
+                "german": "mit Kunden telefonieren",
+                "meaning": "to phone with customers",
+                "part_of_speech": "verb",
+                "gender": null,
+                "plural": null,
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_7",
+                "german": "Biologie studieren",
+                "meaning": "to study biology",
+                "part_of_speech": "verb",
+                "gender": null,
+                "plural": null,
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_8",
+                "german": "Termine vereinbaren",
+                "meaning": "to schedule appointments",
+                "part_of_speech": "verb",
+                "gender": null,
+                "plural": null,
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_9",
+                "german": "bei den Eltern wohnen",
+                "meaning": "to live with one's parents",
+                "part_of_speech": "verb",
+                "gender": null,
+                "plural": null,
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              }
             ]
           }
         }
       ]
     },
     {
-      "id": "lesson_A5_A6",
-      "title": "Berufe und Tätigkeiten",
+      "id": "lesson_A4",
+      "title": "Berufe",
       "blocks": [
         {
-          "id": "k1_a5_ex",
+          "id": "lesson_A4_exercise",
           "type": "exercise",
           "content": {
-            "instructions": "Ordnnen Sie den Zeichnungen die passenden Berufe zu.",
-            "answers": [
-              "Schauspieler und Schauspielerin",
-              "Informatiker",
-              "Kauffrau für Büromanagement",
-              "Lehrerin",
-              "Fußballspieler",
-              "Student",
-              "Kellner",
-              "Arzt",
-              "Marketingmanagerin"
+            "instructions": "Ordnen Sie den Zeichnungen die passenden Berufe zu.",
+            "questions": [
+              {
+                "id": "q1",
+                "type": "matching",
+                "text": "Beruf 1",
+                "correct_answer": "Schauspieler und Schauspielerin",
+                "options": ["Schauspieler und Schauspielerin", "Informatiker", "Kauffrau für Büromanagement", "Lehrerin", "Fußballspieler", "Student", "Kellner", "Arzt", "Marketingmanagerin"],
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q2",
+                "type": "matching",
+                "text": "Beruf 2",
+                "correct_answer": "Informatiker",
+                "options": ["Schauspieler und Schauspielerin", "Informatiker", "Kauffrau für Büromanagement", "Lehrerin", "Fußballspieler", "Student", "Kellner", "Arzt", "Marketingmanagerin"],
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "matching",
+                "text": "Beruf 3",
+                "correct_answer": "Kauffrau für Büromanagement",
+                "options": ["Schauspieler und Schauspielerin", "Informatiker", "Kauffrau für Büromanagement", "Lehrerin", "Fußballspieler", "Student", "Kellner", "Arzt", "Marketingmanagerin"],
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "matching",
+                "text": "Beruf 4",
+                "correct_answer": "Lehrerin",
+                "options": ["Schauspieler und Schauspielerin", "Informatiker", "Kauffrau für Büromanagement", "Lehrerin", "Fußballspieler", "Student", "Kellner", "Arzt", "Marketingmanagerin"],
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "matching",
+                "text": "Beruf 5",
+                "correct_answer": "Fußballspieler",
+                "options": ["Schauspieler und Schauspielerin", "Informatiker", "Kauffrau für Büromanagement", "Lehrerin", "Fußballspieler", "Student", "Kellner", "Arzt", "Marketingmanagerin"],
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "matching",
+                "text": "Beruf 6",
+                "correct_answer": "Student",
+                "options": ["Schauspieler und Schauspielerin", "Informatiker", "Kauffrau für Büromanagement", "Lehrerin", "Fußballspieler", "Student", "Kellner", "Arzt", "Marketingmanagerin"],
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q7",
+                "type": "matching",
+                "text": "Beruf 7",
+                "correct_answer": "Kellner",
+                "options": ["Schauspieler und Schauspielerin", "Informatiker", "Kauffrau für Büromanagement", "Lehrerin", "Fußballspieler", "Student", "Kellner", "Arzt", "Marketingmanagerin"],
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q8",
+                "type": "matching",
+                "text": "Beruf 8",
+                "correct_answer": "Arzt",
+                "options": ["Schauspieler und Schauspielerin", "Informatiker", "Kauffrau für Büromanagement", "Lehrerin", "Fußballspieler", "Student", "Kellner", "Arzt", "Marketingmanagerin"],
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q9",
+                "type": "matching",
+                "text": "Beruf 9",
+                "correct_answer": "Marketingmanagerin",
+                "options": ["Schauspieler und Schauspielerin", "Informatiker", "Kauffrau für Büromanagement", "Lehrerin", "Fußballspieler", "Student", "Kellner", "Arzt", "Marketingmanagerin"],
+                "hint": null,
+                "explanation": null
+              }
             ]
           }
         },
         {
-          "id": "k1_a6_ex",
+          "id": "lesson_A4_vocab",
+          "type": "vocabulary",
+          "content": {
+            "vocabulary": [
+              {
+                "id": "vocab_10",
+                "german": "der Schauspieler / die Schauspielerin",
+                "meaning": "actor / actress",
+                "part_of_speech": "noun",
+                "gender": "der/die",
+                "plural": "Schauspieler / Schauspielerinnen",
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_11",
+                "german": "der Informatiker",
+                "meaning": "computer scientist",
+                "part_of_speech": "noun",
+                "gender": "der",
+                "plural": "Informatiker",
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_12",
+                "german": "die Kauffrau für Büromanagement",
+                "meaning": "management assistant in office management",
+                "part_of_speech": "noun",
+                "gender": "die",
+                "plural": "Kauffrauen für Büromanagement",
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_13",
+                "german": "die Lehrerin",
+                "meaning": "teacher (female)",
+                "part_of_speech": "noun",
+                "gender": "die",
+                "plural": "Lehrerinnen",
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_14",
+                "german": "der Fußballspieler",
+                "meaning": "soccer player",
+                "part_of_speech": "noun",
+                "gender": "der",
+                "plural": "Fußballspieler",
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_15",
+                "german": "der Student",
+                "meaning": "student (male)",
+                "part_of_speech": "noun",
+                "gender": "der",
+                "plural": "Studenten",
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_16",
+                "german": "der Kellner / die Kellnerin",
+                "meaning": "waiter / waitress",
+                "part_of_speech": "noun",
+                "gender": "der/die",
+                "plural": "Kellner / Kellnerinnen",
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_17",
+                "german": "der Arzt",
+                "meaning": "doctor",
+                "part_of_speech": "noun",
+                "gender": "der",
+                "plural": "Ärzte",
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              },
+              {
+                "id": "vocab_18",
+                "german": "die Marketingmanagerin",
+                "meaning": "marketing manager (female)",
+                "part_of_speech": "noun",
+                "gender": "die",
+                "plural": "Marketingmanagerinnen",
+                "example": null,
+                "example_translation": null,
+                "notes": null
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_A5",
+      "title": "Berufliche Tätigkeiten",
+      "blocks": [
+        {
+          "id": "lesson_A5_exercise",
           "type": "exercise",
           "content": {
             "instructions": "Ordnen Sie den Berufen passende Tätigkeiten zu.",
             "questions": [
-              "Eine Büromanagerin",
-              "Ein Informatiker",
-              "Ein Arzt",
-              "Eine Lehrerin",
-              "Ein Kellner",
-              "Ein Fußballspieler",
-              "Eine Marketingmanagerin",
-              "Ein Student"
-            ],
-            "answers": [
-              "Eine Büromanagerin vereinbart Termine, beantwortet E-Mails und telefoniert mit Kunden.",
-              "Ein Informatiker löst Computerprobleme.",
-              "Ein Arzt führt Gespräche mit Patienten und hilft kranken Menschen.",
-              "Eine Lehrerin unterrichtet Kinder.",
-              "Ein Kellner bedient Gäste.",
-              "Ein Fußballspieler schießt ein Tor/schießt Tore.",
-              "Eine Marketingmanagerin entwickelt Marketingstrategien, hat viele Besprechungen und präsentiert Ideen.",
-              "Ein Student lernt viel und liest viele Bücher."
+              {
+                "id": "q1",
+                "type": "fill-blank",
+                "text": "Eine Büromanagerin",
+                "correct_answer": "vereinbart Termine, beantwortet E-Mails und telefoniert mit Kunden",
+                "hint": null,
+                "explanation": "From answer key: Eine Sekretärin vereinbart Termine, beantwortet E-Mails und telefoniert mit Kunden."
+              },
+              {
+                "id": "q2",
+                "type": "fill-blank",
+                "text": "Ein Informatiker",
+                "correct_answer": "löst Computerprobleme",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "fill-blank",
+                "text": "Ein Arzt",
+                "correct_answer": "führt Gespräche mit Patienten und hilft kranken Menschen",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "fill-blank",
+                "text": "Eine Lehrerin",
+                "correct_answer": "unterrichtet Kinder",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "fill-blank",
+                "text": "Eine Kellnerin",
+                "correct_answer": "bedient Gäste",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "fill-blank",
+                "text": "Ein Fußballspieler",
+                "correct_answer": "schießt ein Tor/schießt Tore",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q7",
+                "type": "fill-blank",
+                "text": "Eine Marketingmanagerin",
+                "correct_answer": "entwickelt Marketingstrategien, hat viele Besprechungen, präsentiert Ideen",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q8",
+                "type": "fill-blank",
+                "text": "Ein Student",
+                "correct_answer": "lernt viel und liest viele Bücher",
+                "hint": null,
+                "explanation": null
+              }
             ]
           }
         }
       ]
     },
     {
-      "id": "lesson_A7",
-      "title": "Berufe mit hohem Ansehen in Österreich",
+      "id": "lesson_A6",
+      "title": "Berufe mit hohem Ansehen",
       "blocks": [
         {
-          "id": "k1_a7_ex",
+          "id": "lesson_A6_exercise",
           "type": "exercise",
           "content": {
-            "instructions": "Welche Berufe haben ein hohes Ansehen? Diskutieren Sie und ergänzen Sie Platz eins bis sechs.",
-            "answers": {
-              "Platz 1": "Pilot",
-              "Platz 2": "Popstar",
-              "Platz 3": "Chefarzt",
-              "Platz 4": "Manager",
-              "Platz 5": "Feuerwehrmann",
-              "Platz 6": "Fußballer"
-            }
+            "instructions": "Welche Berufe haben ein hohes Ansehen? Welchen Berufsgruppen vertrauen die Menschen in Österreich? Diskutieren Sie mit Ihrer Nachbarin/Ihrem Nachbarn und ergänzen Sie Platz eins bis sechs.",
+            "questions": [
+              {
+                "id": "q1",
+                "type": "fill-blank",
+                "text": "Platz 1",
+                "correct_answer": "Pilot (finden 50 %)",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q2",
+                "type": "fill-blank",
+                "text": "Platz 2",
+                "correct_answer": "Popstar (finden 39 %)",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "fill-blank",
+                "text": "Platz 3",
+                "correct_answer": "Chefarzt (finden 32%)",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "fill-blank",
+                "text": "Platz 4",
+                "correct_answer": "Manager (finden 31 %)",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "fill-blank",
+                "text": "Platz 5",
+                "correct_answer": "Feuerwehrmann (finden 29 %)",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "fill-blank",
+                "text": "Platz 6",
+                "correct_answer": "Fußballer (finden 27 %)",
+                "hint": null,
+                "explanation": null
+              }
+            ]
           }
         }
       ]
     },
     {
       "id": "lesson_A9",
-      "title": "Über Vergangenes berichten",
+      "title": "Über Vergangenes berichten (Perfekt)",
       "blocks": [
         {
-          "id": "k1_a9_ex",
+          "id": "lesson_A9_grammar",
+          "type": "grammar",
+          "content": {
+            "concept": "Perfekt tense",
+            "pattern": "Hilfsverb (haben/sein) + Partizip II",
+            "explanation": "Das Perfekt besteht aus zwei Teilen: dem Hilfsverb (haben oder sein) und dem Partizip II. Verben der Bewegung oder Zustandsänderung bilden das Perfekt mit 'sein'. Alle anderen Verben bilden das Perfekt mit 'haben'.",
+            "examples": [
+              {
+                "german": "Ich bin mit dem Auto gefahren.",
+                "english": "I drove by car."
+              },
+              {
+                "german": "Ich habe das Problem gelöst.",
+                "english": "I solved the problem."
+              },
+              {
+                "german": "Ich bin gewesen.",
+                "english": "I have been."
+              },
+              {
+                "german": "Ich bin geblieben.",
+                "english": "I stayed."
+              }
+            ],
+            "exceptions": "sein and bleiben use 'sein' as the auxiliary verb.",
+            "summary": "Perfekt with sein: change of location or state. Perfekt with haben: all other verbs."
+          }
+        },
+        {
+          "id": "lesson_A9_exercise",
           "type": "exercise",
           "content": {
             "instructions": "Bilden Sie Fragen und antworten Sie.",
             "questions": [
-              "ein Brot backen",
-              "nach New York fliegen",
-              "mit dem Motorrad fahren",
-              "einen Fisch fangen",
-              "ein Gedicht schreiben",
-              "an der Nordsee Urlaub machen",
-              "ein Buch auf Deutsch lesen",
-              "in einem Fünf-Sterne-Hotel übernachten",
-              "eine Currywurst essen",
-              "eine E-Mail an die falsche Adresse senden",
-              "hässliche Schuhe kaufen",
-              "einen Brief ins Japanische übersetzen",
-              "ein Computerproblem lösen",
-              "ein Weihnachtslied singen"
-            ],
-            "answer_key_verbs": [
-              "gebacken",
-              "geflogen",
-              "gefahren",
-              "gefangen",
-              "geschrieben",
-              "gemacht",
-              "gelesen",
-              "übernachtet",
-              "gegessen",
-              "gesendet",
-              "gekauft",
-              "übersetzt",
-              "gelöst",
-              "gesungen"
+              {
+                "id": "q1",
+                "type": "fill-blank",
+                "text": "ein Brot backen",
+                "correct_answer": "Haben Sie schon einmal ein Brot gebacken? Ja, ich habe schon einmal ein Brot gebacken.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q2",
+                "type": "fill-blank",
+                "text": "nach New York fliegen",
+                "correct_answer": "Sind Sie schon einmal nach New York geflogen? Ja, ich bin schon einmal nach New York geflogen.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "fill-blank",
+                "text": "mit dem Motorrad fahren",
+                "correct_answer": "Sind Sie schon einmal mit dem Motorrad gefahren? Ja, ich bin schon einmal mit dem Motorrad gefahren.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "fill-blank",
+                "text": "einen Fisch fangen",
+                "correct_answer": "Haben Sie schon einmal einen Fisch gefangen? Ja, ich habe schon einmal einen Fisch gefangen.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "fill-blank",
+                "text": "ein Gedicht schreiben",
+                "correct_answer": "Haben Sie schon einmal ein Gedicht geschrieben? Ja, ich habe schon einmal ein Gedicht geschrieben.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "fill-blank",
+                "text": "an der Nordsee Urlaub machen",
+                "correct_answer": "Haben Sie schon einmal an der Nordsee Urlaub gemacht? Ja, ich habe schon einmal an der Nordsee Urlaub gemacht.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q7",
+                "type": "fill-blank",
+                "text": "ein Buch auf Deutsch lesen",
+                "correct_answer": "Haben Sie schon einmal ein Buch auf Deutsch gelesen? Ja, ich habe schon einmal ein Buch auf Deutsch gelesen.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q8",
+                "type": "fill-blank",
+                "text": "in einem Fünf-Sterne-Hotel übernachten",
+                "correct_answer": "Haben Sie schon einmal in einem Fünf-Sterne-Hotel übernachtet? Ja, ich habe schon einmal in einem Fünf-Sterne-Hotel übernachtet.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q9",
+                "type": "fill-blank",
+                "text": "eine Currywurst essen",
+                "correct_answer": "Haben Sie schon einmal eine Currywurst gegessen? Ja, ich habe schon einmal eine Currywurst gegessen.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q10",
+                "type": "fill-blank",
+                "text": "eine E-Mail an die falsche Adresse senden",
+                "correct_answer": "Haben Sie schon einmal eine E-Mail an die falsche Adresse gesendet? Ja, ich habe schon einmal eine E-Mail an die falsche Adresse gesendet.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q11",
+                "type": "fill-blank",
+                "text": "hässliche Schuhe kaufen",
+                "correct_answer": "Haben Sie schon einmal hässliche Schuhe gekauft? Ja, ich habe schon einmal hässliche Schuhe gekauft.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q12",
+                "type": "fill-blank",
+                "text": "einen Brief ins Japanische übersetzen",
+                "correct_answer": "Haben Sie schon einmal einen Brief ins Japanische übersetzt? Ja, ich habe schon einmal einen Brief ins Japanische übersetzt.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q13",
+                "type": "fill-blank",
+                "text": "ein Computerproblem lösen",
+                "correct_answer": "Haben Sie schon einmal ein Computerproblem gelöst? Ja, ich habe schon einmal ein Computerproblem gelöst.",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q14",
+                "type": "fill-blank",
+                "text": "ein Weihnachtslied singen",
+                "correct_answer": "Haben Sie schon einmal ein Weihnachtslied gesungen? Ja, ich habe schon einmal ein Weihnachtslied gesungen.",
+                "hint": null,
+                "explanation": null
+              }
             ]
           }
         }
@@ -209,51 +767,331 @@
     },
     {
       "id": "lesson_A11",
-      "title": "Schulzeit",
+      "title": "Schulzeit - Hörverstehen",
       "blocks": [
         {
-          "id": "k1_a11_ex",
+          "id": "lesson_A11_dialogue",
+          "type": "dialogue",
+          "content": {
+            "context": "Matthias and Susanne talk about their school days.",
+            "lines": [
+              {
+                "speaker": "Matthias",
+                "german": "Ich erinnere mich nicht gern an meine Schulzeit. Ich war ein schlechter Schüler. Das einzige Fach, das mir Spaß gemacht hat, war Sport. Auch nach der Schule habe ich viel Sport gemacht, ich war Mitglied im Fußballverein. Als ich zehn Jahre alt war, habe ich jeden Nachmittag Fußball gespielt. Unsere Mannschaft war sogar Fußballmeister der Stadt. Aber die Schule … Ich weiß noch, ich hatte eine Mathematiklehrerin, die war wirklich schrecklich. Deshalb habe ich nicht gern gerechnet. Und in Deutsch hatte ich auch Probleme. Mich haben eigentlich die Mädchen mehr interessiert als die Schulfächer. Bei uns hat die Schule damals um halb acht Uhr morgens begonnen. In den ersten zwei Stunden habe ich meistens noch geschlafen. Später, da war ich 14 oder 15 Jahre alt, haben mir Fächer wie Chemie und Physik Spaß gemacht. Und das Rechnen habe ich auch noch gelernt. Heute bin ich Ingenieur.",
+                "translation": "I don't like to remember my school days. I was a bad student. The only subject I enjoyed was sports. Even after school I did a lot of sports, I was a member of a soccer club. When I was ten years old, I played soccer every afternoon. Our team was even city soccer champion. But school... I still remember I had a math teacher who was really terrible. That's why I didn't like to do math. And I also had problems in German. Actually, I was more interested in girls than in school subjects. Back then, school started at 7:30 in the morning for us. During the first two hours I was usually still sleeping. Later, when I was 14 or 15, I enjoyed subjects like chemistry and physics. And I also learned arithmetic. Today I am an engineer."
+              },
+              {
+                "speaker": "Susanne",
+                "german": "Ich war eine gute Schülerin. Ich hatte eine sehr gute Deutschlehrerin und in Englisch hatte ich eine Eins. Sprachen haben für mich immer eine große Rolle gespielt. Heute arbeite ich als Journalistin und kann die Sprachen sehr gut gebrauchen. Mathematik und Physik haben mich nicht interessiert. In diesen Fächern habe ich auch manchmal keine Hausaufgaben gemacht und natürlich hatte ich keine guten Noten. Ich glaube, ich hatte in Mathematik eine Drei. Unsere Schule hat um 8.00 Uhr angefangen und um 13.00 Uhr bin ich nach Hause gegangen. Mittwochs und freitags habe ich nach der Schulzeit Tennis gespielt.",
+                "translation": "I was a good student. I had a very good German teacher and I got an A in English. Languages have always played a big role for me. Today I work as a journalist and I can use the languages very well. Mathematics and physics didn't interest me. In those subjects I sometimes didn't do my homework and of course I didn't get good grades. I think I got a C in math. Our school started at 8:00 AM and I went home at 1:00 PM. On Wednesdays and Fridays I played tennis after school."
+              }
+            ]
+          }
+        },
+        {
+          "id": "lesson_A11_exercise",
           "type": "exercise",
           "content": {
             "instructions": "Hören Sie die Berichte und ergänzen Sie die Informationen.",
-            "answers": {
-              "Matthias": ["schlechter", "Sport", "Fußball", "Deutsch", "interessiert", "(um) halb acht/7.30 Uhr", "Spaß"],
-              "Susanne": ["Schülerin", "Sprachen", "Englisch", "arbeitet", "Hausaufgaben", "um 8.00 Uhr", "freitags"]
-            }
+            "questions": [
+              {
+                "id": "q1",
+                "type": "fill-blank",
+                "text": "Matthias war ein ________ Schüler.",
+                "correct_answer": "schlechter",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q2",
+                "type": "fill-blank",
+                "text": "Sein Lieblingsfach war ________.",
+                "correct_answer": "Sport",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "fill-blank",
+                "text": "Er war Mitglied in einem ________ verein.",
+                "correct_answer": "Fußball",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "fill-blank",
+                "text": "Matthias hatte Probleme in Mathematik und in ________.",
+                "correct_answer": "Deutsch",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "fill-blank",
+                "text": "Er hat sich mehr für ________ interessiert.",
+                "correct_answer": "Mädchen",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "fill-blank",
+                "text": "Die Schule hat ________ begonnen.",
+                "correct_answer": "(um) halb acht/7.30 Uhr",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q7",
+                "type": "fill-blank",
+                "text": "Mit 15 haben ihm Chemie und Physik ________ gemacht.",
+                "correct_answer": "Spaß",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q8",
+                "type": "fill-blank",
+                "text": "Susanne war eine gute ________.",
+                "correct_answer": "Schülerin",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q9",
+                "type": "fill-blank",
+                "text": "________ spielten für Susanne eine wichtige Rolle.",
+                "correct_answer": "Sprachen",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q10",
+                "type": "fill-blank",
+                "text": "Eine sehr gute Note hatte sie in ________.",
+                "correct_answer": "Englisch",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q11",
+                "type": "fill-blank",
+                "text": "Sie ________ heute als Journalistin.",
+                "correct_answer": "arbeitet",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q12",
+                "type": "fill-blank",
+                "text": "In den Fächern Mathematik und Physik hat sie manchmal keine ________ gemacht.",
+                "correct_answer": "Hausaufgaben",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q13",
+                "type": "fill-blank",
+                "text": "Die Schule hat ________ angefangen und um 13.00 Uhr aufgehört.",
+                "correct_answer": "um 8.00 Uhr",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q14",
+                "type": "fill-blank",
+                "text": "Nach der Schulzeit hat sie mittwochs und ________ Tennis gespielt.",
+                "correct_answer": "freitags",
+                "hint": null,
+                "explanation": null
+              }
+            ]
           }
         }
       ]
     },
     {
-      "id": "lesson_A13_A15",
+      "id": "lesson_A13",
       "title": "Das Schulsystem in Deutschland",
       "blocks": [
         {
-          "id": "k1_a13_ex",
-          "type": "exercise",
+          "id": "lesson_A13_content",
+          "type": "lesson",
           "content": {
-            "instructions": "Betrachten Sie die Grafik und lesen Sie die Wörter laut. Lesen Sie den Text zur Grafik und ergänzen Sie die fehlenden Wörter.",
-            "answers": ["Kindergarten", "Grundschule", "Gymnasium", "Universität", "Mittleren", "Berufsausbildung", "Berufsfachschule"]
+            "title": "Das Schulsystem in Deutschland",
+            "text": "Die Schulpolitik in Deutschland bestimmen die einzelnen Bundesländer, das heißt, es kann zum Beispiel zwischen Bayern, Sachsen und Hessen einige Unterschiede geben. Im Allgemeinen gilt: Kinder im Alter bis drei Jahre können eine ...",
+            "objectives": [
+              "Das Schulsystem verstehen",
+              "Schularten benennen"
+            ]
           }
         },
         {
-          "id": "k1_a15_vocab",
-          "type": "vocabulary",
+          "id": "lesson_A13_exercise",
+          "type": "exercise",
+          "content": {
+            "instructions": "Lesen Sie den Text zur Grafik und ergänzen Sie die fehlenden Wörter.",
+            "questions": [
+              {
+                "id": "q1",
+                "type": "fill-blank",
+                "text": "Kinder im Alter bis drei Jahre können eine ________ besuchen.",
+                "correct_answer": "Kindergarten",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q2",
+                "type": "fill-blank",
+                "text": "Von drei bis sechs Jahren besuchen Kinder einen ________.",
+                "correct_answer": "Kindergarten",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "fill-blank",
+                "text": "Zuerst gehen die Kinder vier Jahre auf eine ________.",
+                "correct_answer": "Grundschule",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "fill-blank",
+                "text": "Danach besuchen sie die Hauptschule, die Realschule oder das ________.",
+                "correct_answer": "Gymnasium",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "fill-blank",
+                "text": "Mit dem Abitur kann man ein ________ an einer Universität beginnen.",
+                "correct_answer": "Studium",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "fill-blank",
+                "text": "Die Realschule schließt man mit der ________ Reife ab.",
+                "correct_answer": "Mittleren",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q7",
+                "type": "fill-blank",
+                "text": "Die meisten Schüler mit einem Hauptschulabschluss fangen nach der Schule mit einer ________ an.",
+                "correct_answer": "Berufsausbildung",
+                "hint": null,
+                "explanation": null
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson_A15",
+      "title": "Wortschatz Schule",
+      "blocks": [
+        {
+          "id": "lesson_A15_exercise",
+          "type": "exercise",
           "content": {
             "instructions": "Ergänzen Sie die fehlenden Nomen.",
-            "words": [
-              { "german": "Schüler", "meaning": "student (male)", "part_of_speech": "noun", "gender": "der" },
-              { "german": "Fächer", "meaning": "subjects", "part_of_speech": "noun", "gender": "die" },
-              { "german": "Grundschule", "meaning": "elementary school", "part_of_speech": "noun", "gender": "die" },
-              { "german": "das Rechnen", "meaning": "arithmetic", "part_of_speech": "noun", "gender": "das" },
-              { "german": "Schule", "meaning": "school", "part_of_speech": "noun", "gender": "die" },
-              { "german": "Gymnasium", "meaning": "high school (college prep)", "part_of_speech": "noun", "gender": "das" },
-              { "german": "Mathematiklehrerin", "meaning": "math teacher (female)", "part_of_speech": "noun", "gender": "die" },
-              { "german": "Noten", "meaning": "grades", "part_of_speech": "noun", "gender": "die" },
-              { "german": "Hausaufgaben", "meaning": "homework", "part_of_speech": "noun", "gender": "die" },
-              { "german": "Fußball", "meaning": "soccer", "part_of_speech": "noun", "gender": "der" },
-              { "german": "Abitur", "meaning": "high school diploma (college entrance)", "part_of_speech": "noun", "gender": "das" },
-              { "german": "Universität", "meaning": "university", "part_of_speech": "noun", "gender": "die" }
+            "questions": [
+              {
+                "id": "q1",
+                "type": "fill-blank",
+                "text": "Ich war ein schlechter ________.",
+                "correct_answer": "Schüler",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q2",
+                "type": "fill-blank",
+                "text": "________ wie Chemie und Physik haben mir viel Spaß gemacht.",
+                "correct_answer": "Fächer",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "fill-blank",
+                "text": "Ich habe die ________ in Frankfurt besucht. Dort habe ich das Schreiben und ________ gelernt.",
+                "correct_answer": "Grundschule, das Rechnen",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "fill-blank",
+                "text": "Die ________ hat um 8.00 Uhr begonnen.",
+                "correct_answer": "Schule",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "fill-blank",
+                "text": "Danach bin ich auf das ________ gegangen.",
+                "correct_answer": "Gymnasium",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "fill-blank",
+                "text": "Ich hatte eine nette ________.",
+                "correct_answer": "Mathematiklehrerin",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q7",
+                "type": "fill-blank",
+                "text": "In Englisch hatte ich sehr gute ________.",
+                "correct_answer": "Noten",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q8",
+                "type": "fill-blank",
+                "text": "In manchen Fächern habe ich keine ________ gemacht.",
+                "correct_answer": "Hausaufgaben",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q9",
+                "type": "fill-blank",
+                "text": "Am Nachmittag habe ich oft ________ gespielt.",
+                "correct_answer": "Fußball",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q10",
+                "type": "fill-blank",
+                "text": "Das Gymnasium habe ich mit dem ________ abgeschlossen.",
+                "correct_answer": "Abitur",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q11",
+                "type": "fill-blank",
+                "text": "Danach habe ich an der ________ studiert.",
+                "correct_answer": "Universität",
+                "hint": null,
+                "explanation": null
+              }
             ]
           }
         }
@@ -264,99 +1102,284 @@
       "title": "Lebensläufe",
       "blocks": [
         {
-          "id": "k1_a16_ex",
+          "id": "lesson_A16_exercise",
           "type": "exercise",
           "content": {
             "instructions": "Hören Sie den Bericht von Sandra und ergänzen Sie im Lebenslauf die fehlenden Informationen.",
-            "answers": {
-              "geburtstag": "1980",
-              "geburtsort": "Düsseldorf",
-              "gymnasium_end": "2012",
-              "abitur": "2012",
-              "studium_geschichte": "Geschichte",
-              "hochschule": "Bremen",
-              "auslandssemester": "Manchester",
-              "abschluss": "Ingenieurin",
-              "praktikum": "Praktikum",
-              "position": "Mitarbeiterin"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "lesson_A17",
-      "title": "Der Lebenslauf von Peter Meier",
-      "blocks": [
-        {
-          "id": "k1_a17_ex",
-          "type": "exercise",
-          "content": {
-            "instructions": "Was haben Sie über Peter erfahren? Bilden Sie Sätze und berichten Sie.",
-            "answers": [
-              "Von 2008 bis 2011 hat er Volkswirtschaftslehle (VWL) an der Universität Leipzig studiert.",
-              "Sein Schwerpunkt war Finanzökonomie.",
-              "Danach hat er von 2011 bis 2013 ein Masterstudium an der Handelshochschule Leipzig absolviert.",
-              "Im Sommer 2012 hat Peter ein Praktikum bei der Deutschen Bank in Leipzig gemacht und Arbeitserfahrungen gesammelt.",
-              "2013 hat er sein Studium mit dem Master of Science abgeschlossen.",
-              "Von 2013 bis 2015 hat er als Mitarbeiter in der Abteilung Strategie und Kontrolle bei Siemens in München gearbeitet.",
-              "Seit 2016 ist Peter Marketingmanager bei KODAX in Leipzig.",
-              "Er spricht sehr gut Englisch und gut Französisch.",
-              "Er beherrscht Microsoft Office."
+            "questions": [
+              {
+                "id": "q1",
+                "type": "fill-blank",
+                "text": "Geburtsdatum: 14. Mai ________",
+                "correct_answer": "1980",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q2",
+                "type": "fill-blank",
+                "text": "Geburtsort: ________",
+                "correct_answer": "Düsseldorf",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "fill-blank",
+                "text": "2004–________ Gymnasium",
+                "correct_answer": "2012",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "fill-blank",
+                "text": "________ Abitur",
+                "correct_answer": "2012",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "fill-blank",
+                "text": "Studium der ________ an der Universität Köln",
+                "correct_answer": "Geschichte",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "fill-blank",
+                "text": "Studium im Fach Umwelttechnik an der Hochschule ________",
+                "correct_answer": "Bremen",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q7",
+                "type": "fill-blank",
+                "text": "Auslandssemester in ________",
+                "correct_answer": "Manchester",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q8",
+                "type": "fill-blank",
+                "text": "Bachelor-Abschluss als ________ für Umwelttechnik",
+                "correct_answer": "Ingenieurin",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q9",
+                "type": "fill-blank",
+                "text": "2016 ________ bei der Stadtverwaltung in Bremen",
+                "correct_answer": "Praktikum",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q10",
+                "type": "fill-blank",
+                "text": "ab 2017 ________ im Bereich Umweltschutz bei der Stadt Bremen",
+                "correct_answer": "Mitarbeiterin",
+                "hint": null,
+                "explanation": null
+              }
             ]
           }
         }
       ]
     },
     {
-      "id": "lesson_A21_A22",
+      "id": "lesson_A21",
       "title": "Reflexive Verben",
       "blocks": [
         {
-          "id": "k1_a21_ex",
+          "id": "lesson_A21_grammar",
+          "type": "grammar",
+          "content": {
+            "concept": "Reflexive Verben",
+            "pattern": "Reflexivpronomen (Akkusativ) + Verb",
+            "explanation": "Reflexive Verben werden mit einem Reflexivpronomen verwendet, das sich auf das Subjekt bezieht. Manche Verben sind immer reflexiv (z.B. sich bedanken), andere können reflexiv oder mit einem Objekt verwendet werden (z.B. sich waschen / die Sachen waschen).",
+            "examples": [
+              {
+                "german": "Ich wasche mich.",
+                "english": "I wash myself."
+              },
+              {
+                "german": "Ich bedanke mich.",
+                "english": "I thank."
+              },
+              {
+                "german": "Sie zieht sich an.",
+                "english": "She gets dressed."
+              }
+            ],
+            "exceptions": null,
+            "summary": "Reflexive verbs always have a reflexive pronoun (mich, dich, sich, uns, euch, sich) that matches the subject."
+          }
+        },
+        {
+          "id": "lesson_A21_exercise_a",
           "type": "exercise",
           "content": {
-            "instructions": "Ergänzen Sie die passenden Verben. Sagen Sie es im Perfekt.",
-            "answers_present": [
-              "Kathrin kämmt sich.",
-              "Oma schminkt sich.",
-              "Klaus wäscht sich.",
-              "Marie zieht sich an.",
-              "Otto ärgert sich.",
-              "Kathrin und Max unterhalten sich.",
-              "Karl interessiert sich für Briefmarken.",
-              "Dr. Müller stellt sich vor.",
-              "Kathrin und Max streiten sich."
-            ],
-            "answers_perfect": [
-              "Kathrin hat sich gekämmt.",
-              "Oma hat sich geschminkt.",
-              "Klaus hat sich gewaschen.",
-              "Marie hat sich angezogen.",
-              "Otto hat sich geärgert.",
-              "Kathrin und Max haben sich unterhalten.",
-              "Karl hat sich für Briefmarken interessiert.",
-              "Dr. Müller hat sich vorgestellt.",
-              "Kathrin und Max haben sich gestritten."
+            "instructions": "Ergänzen Sie die passenden Verben.",
+            "questions": [
+              {
+                "id": "q1",
+                "type": "fill-blank",
+                "text": "Kathrin ________ sich.",
+                "correct_answer": "kämmt",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q2",
+                "type": "fill-blank",
+                "text": "Oma ________ sich.",
+                "correct_answer": "schminkt",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "fill-blank",
+                "text": "Klaus ________ sich.",
+                "correct_answer": "wäscht",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "fill-blank",
+                "text": "Marie ________ sich an.",
+                "correct_answer": "zieht",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "fill-blank",
+                "text": "Otto ________ sich.",
+                "correct_answer": "ärgert",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "fill-blank",
+                "text": "Kathrin und Max ________ sich.",
+                "correct_answer": "unterhalten",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q7",
+                "type": "fill-blank",
+                "text": "Karl ________ sich für Briefmarken.",
+                "correct_answer": "interessiert",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q8",
+                "type": "fill-blank",
+                "text": "Dr. Müller ________ sich vor.",
+                "correct_answer": "stellt",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q9",
+                "type": "fill-blank",
+                "text": "Kathrin und Max ________ sich.",
+                "correct_answer": "streiten",
+                "hint": null,
+                "explanation": null
+              }
             ]
           }
         },
         {
-          "id": "k1_a22_ex",
+          "id": "lesson_A21_exercise_b",
           "type": "exercise",
           "content": {
-            "instructions": "Bilden Sie Sätze im Perfekt.",
-            "answers": [
-              "Ja, ich habe mich geärgert.",
-              "Ja, er hat sich schon geföhnt.",
-              "Ja, ich habe mich schon angezogen.",
-              "Ja, er hat sich schon geduscht.",
-              "Ja, wir haben uns schon bedankt.",
-              "Ja, er hat sich beschwert.",
-              "Ja, ich habe mich verliebt.",
-              "Ja, sie hat sich erkältet.",
-              "Ja, sie haben sich gestritten.",
-              "Ja, ich habe mich schon geschminkt."
+            "instructions": "Sagen Sie es im Perfekt.",
+            "questions": [
+              {
+                "id": "q1",
+                "type": "fill-blank",
+                "text": "Kathrin hat sich ________.",
+                "correct_answer": "gekämmt",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q2",
+                "type": "fill-blank",
+                "text": "Oma hat sich ________.",
+                "correct_answer": "geschminkt",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "fill-blank",
+                "text": "Klaus hat sich ________.",
+                "correct_answer": "gewaschen",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "fill-blank",
+                "text": "Marie hat sich ________.",
+                "correct_answer": "angezogen",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "fill-blank",
+                "text": "Otto hat sich ________.",
+                "correct_answer": "geärgert",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "fill-blank",
+                "text": "Kathrin und Max haben sich ________.",
+                "correct_answer": "unterhalten",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q7",
+                "type": "fill-blank",
+                "text": "Karl hat sich für Briefmarken ________.",
+                "correct_answer": "interessiert",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q8",
+                "type": "fill-blank",
+                "text": "Dr. Müller hat sich ________.",
+                "correct_answer": "vorgestellt",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q9",
+                "type": "fill-blank",
+                "text": "Kathrin und Max haben sich ________.",
+                "correct_answer": "gestritten",
+                "hint": null,
+                "explanation": null
+              }
             ]
           }
         }
@@ -364,76 +1387,166 @@
     },
     {
       "id": "lesson_A25",
-      "title": "Betriebsrundgang: Der Genitiv",
+      "title": "Genitiv",
       "blocks": [
         {
-          "id": "k1_a25_ex",
+          "id": "lesson_A25_grammar",
+          "type": "grammar",
+          "content": {
+            "concept": "Genitiv",
+            "pattern": "Bezugswort + Genitivattribut (des/eines + Nomens, der/einer + Nomens)",
+            "explanation": "Der Genitiv zeigt Besitz oder Zugehörigkeit an. Das Genitivattribut steht normalerweise hinter dem Bezugswort. Bei Namen steht der Genitiv vor dem Bezugswort.",
+            "examples": [
+              {
+                "german": "Das Büro des Abteilungsleiters",
+                "english": "The office of the department head"
+              },
+              {
+                "german": "Das Brot meiner Kollegin",
+                "english": "The bread of my colleague"
+              },
+              {
+                "german": "Kathrins Tagesablauf",
+                "english": "Kathrin's daily routine"
+              }
+            ],
+            "exceptions": null,
+            "summary": "Der Genitiv wird mit den Artikeln des (maskulin/neutral), der (feminin/plural) und den Endungen -s/-es beim Nomen gebildet."
+          }
+        },
+        {
+          "id": "lesson_A25_exercise",
           "type": "exercise",
           "content": {
             "instructions": "Ergänzen Sie die Angaben im Genitiv.",
-            "answers": [
-              "Die Firma liegt sehr günstig, gleich in der Nähe des Bahnhofs.",
-              "In der Nähe des Eingangs ist der Fahrstuhl.",
-              "Das hier ist das Zimmer der Chefsekretärin und dahinter liegt das Zimmer des Direktors.",
-              "Dieser große Schreibtisch ist natürlich der Schreibtisch des Chefs.",
-              "Hier stehen unsere Hauptrechner. Das ist der Arbeitsbereich der Informatiker.",
-              "Gleich daneben finden Sie die Praxis des Betriebsarztes.",
-              "Das ist die Kantine der Mitarbeiter.",
-              "Ganz anders schmeckt das Essen in der Kantine des Managements. Das Management hat einen Extra-Koch, einen Koch der Spitzenklasse!"
+            "questions": [
+              {
+                "id": "q1",
+                "type": "fill-blank",
+                "text": "Die Firma liegt sehr günstig, gleich in der Nähe ________.",
+                "correct_answer": "des Bahnhofs",
+                "hint": null,
+                "explanation": "der Bahnhof → des Bahnhofs"
+              },
+              {
+                "id": "q2",
+                "type": "fill-blank",
+                "text": "In der Nähe ________ ist der Fahrstuhl.",
+                "correct_answer": "des Eingangs",
+                "hint": null,
+                "explanation": "der Eingang → des Eingangs"
+              },
+              {
+                "id": "q3",
+                "type": "fill-blank",
+                "text": "Das hier ist das Zimmer ________ und dahinter liegt das Zimmer ________.",
+                "correct_answer": "der Verwaltungsleiterin, der Marketingabteilung",
+                "hint": null,
+                "explanation": "die Verwaltungsleiterin → der Verwaltungsleiterin; die Marketingabteilung → der Marketingabteilung"
+              },
+              {
+                "id": "q4",
+                "type": "fill-blank",
+                "text": "Dieser große Schreibtisch hier ist der Schreibtisch ________.",
+                "correct_answer": "des Marketingchefs",
+                "hint": null,
+                "explanation": "der Marketingchef → des Marketingchefs"
+              },
+              {
+                "id": "q5",
+                "type": "fill-blank",
+                "text": "Hier stehen unsere Hauptrechner. Das ist der Arbeitsbereich ________.",
+                "correct_answer": "der Informatiker",
+                "hint": null,
+                "explanation": "die Informatiker (Plural) → der Informatiker"
+              },
+              {
+                "id": "q6",
+                "type": "fill-blank",
+                "text": "Gleich daneben finden Sie die Praxis ________. Ob das was zu bedeuten hat?",
+                "correct_answer": "des Betriebsarztes",
+                "hint": null,
+                "explanation": "der Betriebsarzt → des Betriebsarztes"
+              },
+              {
+                "id": "q7",
+                "type": "fill-blank",
+                "text": "Das ist die Kantine ________. Das Essen schmeckt hier manchmal schrecklich.",
+                "correct_answer": "der Mitarbeiter",
+                "hint": null,
+                "explanation": "die Mitarbeiter (Plural) → der Mitarbeiter"
+              },
+              {
+                "id": "q8",
+                "type": "fill-blank",
+                "text": "Ganz anders schmeckt das Essen in der Kantine ________. Das Management hat einen Extra-Koch, einen Koch ________!",
+                "correct_answer": "des Managements, der Spitzenklasse",
+                "hint": null,
+                "explanation": "das Management → des Managements; die Spitzenklasse → der Spitzenklasse"
+              }
             ]
           }
         }
       ]
     },
     {
-      "id": "lesson_B3_B6",
-      "title": "Wissenswertes: Akademische Berufe",
+      "id": "lesson_B3",
+      "title": "Akademische Berufe - Leseverstehen",
       "blocks": [
         {
-          "id": "k1_b3_ex",
+          "id": "lesson_B3_exercise",
           "type": "exercise",
           "content": {
-            "instructions": "Was ist richtig, was ist falsch?",
-            "answers": [
-              "richtig",
-              "falsch",
-              "falsch",
-              "richtig"
-            ]
-          }
-        },
-        {
-          "id": "k1_b5_ex",
-          "type": "exercise",
-          "content": {
-            "instructions": "Welche Wörter haben synonyme Bedeutung? Ordnen Sie zu.",
-            "answers": [
-              { "question": "(1) die Stelle", "answer": "(d) der Job" },
-              { "question": "(2) arbeitslos sein", "answer": "(e) keine Arbeit haben" },
-              { "question": "(3) Zukunftsaussichten", "answer": "(a) Perspektiven" },
-              { "question": "(4) sparen", "answer": "(f) weniger Geld ausgeben" },
-              { "question": "(5) Chancen", "answer": "(c) Möglichkeiten" },
-              { "question": "(6) Karriere machen", "answer": "(b) beruflichen Erfolg haben" }
-            ]
-          }
-        },
-        {
-          "id": "k1_b6_ex",
-          "type": "exercise",
-          "content": {
-            "instructions": "Ergänzen Sie die femininen Berufsbezeichnungen. Ordnen Sie die Tätigkeiten zu.",
-            "answers": [
-              { "beruf": "der Arzt", "feminin": "die Ärztin", "taetigkeit": "(b) hilft kranken Menschen" },
-              { "beruf": "der Architekt", "feminin": "die Architektin", "taetigkeit": "(h) entwirft neue Häuser" },
-              { "beruf": "der Deutschlehrer", "feminin": "die Deutschlehrerin", "taetigkeit": "(a) unterrichtet Schüler im Fach Deutsch" },
-              { "beruf": "der Apotheker", "feminin": "die Apothekerin", "taetigkeit": "(g) verkauft Medikamente" },
-              { "beruf": "der Ingenieur", "feminin": "die Ingenieurin", "taetigkeit": "(c) konstruiert z. B. Maschinen oder Autos" },
-              { "beruf": "der Informatiker", "feminin": "die Informatikerin", "taetigkeit": "(f) programmiert z. B. Computerspiele" },
-              { "beruf": "der Zahnarzt", "feminin": "die Zahnärztin", "taetigkeit": "(e) repariert kaputte Zähne" },
-              { "beruf": "der Physiker", "feminin": "die Physikerin", "taetigkeit": "(d) beschäftigt sich z. B. mit Atomen" },
-              { "beruf": "der Philosoph", "feminin": "die Philosophin", "taetigkeit": "(j) erklärt die Welt" },
-              { "beruf": "der Wirtschaftsmathematiker", "feminin": "die Wirtschaftsmathematikerin", "taetigkeit": "(k) rechnet mit Zahlen aus der Wirtschaft" },
-              { "beruf": "der Jurist", "feminin": "die Juristin", "taetigkeit": "(i) berät Menschen in Rechtsfragen" }
+            "instructions": "Was ist richtig, was ist falsch? Kreuzen Sie an.",
+            "questions": [
+              {
+                "id": "q1",
+                "type": "true-false",
+                "text": "Menschen mit einem akademischen Abschluss haben bessere Chancen auf dem Arbeitsmarkt als andere.",
+                "correct_answer": "true",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q2",
+                "type": "true-false",
+                "text": "In ein paar Jahren gibt es für alle akademischen Berufe mehr Stellen.",
+                "correct_answer": "false",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "true-false",
+                "text": "Finanz- und Wirtschaftsmathematiker verdienen genauso viel Geld wie Fußballstars.",
+                "correct_answer": "false",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "true-false",
+                "text": "Es gibt immer mehr Betriebswirte.",
+                "correct_answer": "true",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "true-false",
+                "text": "Journalisten und Übersetzer haben in Zukunft keine guten Jobchancen.",
+                "correct_answer": "true",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "true-false",
+                "text": "Das Jurastudium garantiert eine steile Karriere.",
+                "correct_answer": "false",
+                "hint": null,
+                "explanation": null
+              }
             ]
           }
         }
@@ -444,24 +1557,136 @@
       "title": "Verben im Präsens (Wiederholung)",
       "blocks": [
         {
-          "id": "k1_c1_ex",
+          "id": "lesson_C1_grammar",
+          "type": "grammar",
+          "content": {
+            "concept": "Präsens der regelmäßigen, unregelmäßigen Verben und von haben/sein",
+            "pattern": "Stamm + Endung (e, st, t, en, t, en) - mit eventuellen Vokalwechseln bei unregelmäßigen Verben",
+            "explanation": "Regelmäßige Verben: Stamm + Endung. Unregelmäßige Verben ändern oft den Stammvokal in der 2. und 3. Person Singular. Haben und sein sind völlig unregelmäßig.",
+            "examples": [
+              {
+                "german": "Ich lerne, du lernst, er/sie/es lernt, wir lernen, ihr lernt, sie/Sie lernen",
+                "english": "I learn, you learn, he/she/it learns, we learn, you (pl.) learn, they/you (formal) learn"
+              },
+              {
+                "german": "Ich fahre, du fährst, er/sie/es fährt, wir fahren, ihr fahrt, sie/Sie fahren",
+                "english": "I drive, you drive, he/she/it drives, we drive, you (pl.) drive, they/you (formal) drive"
+              }
+            ],
+            "exceptions": "Modalverben haben eigene Konjugationen.",
+            "summary": "Das Präsens wird für gegenwärtige Handlungen, Gewohnheiten und zukünftige Ereignisse verwendet."
+          }
+        },
+        {
+          "id": "lesson_C1_exercise",
           "type": "exercise",
           "content": {
             "instructions": "Ergänzen Sie die Verben in der richtigen Form.",
-            "answers": [
-              "Hast",
-              "lernt",
-              "kommen",
-              "steht",
-              "liegt, liest",
-              "Fährst",
-              "Gibt",
-              "Trinkst",
-              "fliegt, bleibe",
-              "arbeitet",
-              "isst",
-              "Bist",
-              "spricht"
+            "questions": [
+              {
+                "id": "q1",
+                "type": "fill-blank",
+                "text": "________ du einen neuen Schreibtisch?",
+                "correct_answer": "Hast",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q2",
+                "type": "fill-blank",
+                "text": "Marie ________ seit drei Jahren Englisch.",
+                "correct_answer": "lernt",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q3",
+                "type": "fill-blank",
+                "text": "Jean-Marc und Sarah ________ aus Frankreich.",
+                "correct_answer": "kommen",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q4",
+                "type": "fill-blank",
+                "text": "In welchem Zimmer ________ der Fernseher?",
+                "correct_answer": "steht",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q5",
+                "type": "fill-blank",
+                "text": "Marco ________ im Bett und ________ einen Roman.",
+                "correct_answer": "liegt, liest",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q6",
+                "type": "fill-blank",
+                "text": "________ du mit deinem neuen Auto?",
+                "correct_answer": "Fährst",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q7",
+                "type": "fill-blank",
+                "text": "________ es in der Nähe ein gutes Restaurant?",
+                "correct_answer": "Gibt",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q8",
+                "type": "fill-blank",
+                "text": "________ du auch ein Glas Apfelsaft?",
+                "correct_answer": "Trinkst",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q9",
+                "type": "fill-blank",
+                "text": "Paul ________ heute mit dem Flugzeug nach New York, ich ________ lieber zu Hause.",
+                "correct_answer": "fliegt, bleibe",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q10",
+                "type": "fill-blank",
+                "text": "Wo ________ Frau Krause?",
+                "correct_answer": "arbeitet",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q11",
+                "type": "fill-blank",
+                "text": "Franziska ________ kein Fleisch.",
+                "correct_answer": "isst",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q12",
+                "type": "fill-blank",
+                "text": "________ du glücklich?",
+                "correct_answer": "Bist",
+                "hint": null,
+                "explanation": null
+              },
+              {
+                "id": "q13",
+                "type": "fill-blank",
+                "text": "Otto ________ fließend Italienisch.",
+                "correct_answer": "spricht",
+                "hint": null,
+                "explanation": null
+              }
             ]
           }
         }
