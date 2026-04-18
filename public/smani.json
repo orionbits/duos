@@ -1,0 +1,13 @@
+
+
+{
+  "version": "1.0.0",
+  "textbooks": [
+    {
+      "id": "sample",
+      "name": "Sample German Textbook",
+      "cefr_level": "A1",
+      "cover_image": "/covers/sample.jpg"
+    }
+  ]
+}

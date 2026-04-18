@@ -1,0 +1,1720 @@
+{
+  "metadata": {
+    "id": "compressed_a2",
+    "name": "1 Compressed",
+    "cefr_level": "A2",
+    "publisher": "Unknown",
+    "edition": "1",
+    "main_topic": "German Language Learning",
+    "language": "German",
+    "source_file": "1_compressed.pdf",
+    "total_pages": 28,
+    "total_blocks": 26,
+    "total_lessons": 11
+  },
+  "lessons": [
+    {
+      "id": "lesson_Kommunikation",
+      "title": "Kommunikation",
+      "order": 1,
+      "blocks": [
+        {
+          "id": "compressed_a2_p1_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Schulzeit",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p2_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Gruppe",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Firma",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Schule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson_1",
+      "title": "Wo ist Pedro geboren?",
+      "order": 2,
+      "blocks": [
+        {
+          "id": "compressed_a2_p3_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Fragen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Studium",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Ausbildung",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Ausbildung",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Arbeit",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Arbeit",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Arbeit",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p5_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Menschen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Pilot",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Problem",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Zustand",
+              "meaning": "Wechsel von Ort oder Zustand alle anderen VerbenInterview",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson_1",
+      "title": "ein Brot backen",
+      "order": 3,
+      "blocks": [
+        {
+          "id": "compressed_a2_p6_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Nordsee",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p7_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Unterricht",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Unterricht",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Schulzeit",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Berichte",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Schulzeit",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p8_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Grafik",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Schule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Jugend",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Landes",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Schule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Rechtschreibung",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p9_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Grafik",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Hauptschule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": "Realschule"
+            },
+            {
+              "german": "Wünsche",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Noten",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Schule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Fragen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Schule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Schulzeit",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Prüfungen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Schule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Rechnen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Schreiben",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Abschluss",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Schweiz",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Noten",
+              "meaning": "Zensuren",
+              "part_of_speech": "verb"
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson_1",
+      "title": "Sie hat von 2004 bis 2012 das Gymnasium",
+      "order": 4,
+      "blocks": [
+        {
+          "id": "compressed_a2_p10_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Grundschule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Gymnasium",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Universität",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Studium",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Hochschule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Stadtverwaltung",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Stadt",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Universität",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Hochschule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Stadtverwaltung",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Stadt",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p11_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Abteilung",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Deutschen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Zeitform",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Schule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Universität",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Handelshochschule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Deutschen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Abteilung",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p12_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Reflexivpronomen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Schule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Personen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Sätze",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Subjekt",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson_1",
+      "title": "Mia – wieder – über ihre Chefin – ärgern",
+      "order": 5,
+      "blocks": [
+        {
+          "id": "compressed_a2_p13_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Leute",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Kollegen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Arbeitszeiten",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Grüße",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Blumen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Hotelrezeption",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Computerprogramm",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson_1",
+      "title": "06A23",
+      "order": 6,
+      "blocks": [
+        {
+          "id": "compressed_a2_p14_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Verben",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Arbeit",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Kollegen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Gleiche",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Zimmer",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Kantine",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson_1",
+      "title": "Die Firma liegt sehr günstig, gleich in der Nähe (der Bahnhof) .",
+      "order": 7,
+      "blocks": [
+        {
+          "id": "compressed_a2_p15_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Angaben",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Hauptgebäude",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Hauptgebäude",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Nähe",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Nähe",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Zimmer",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Schreibtisch",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Arbeitsbereich",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Praxis",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Kantine",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Essen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Spitzenklasse",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Büro",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Brot",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Genitiv",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Leiter",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Kollegin",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Kollegin",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Kollegineiner",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson_1",
+      "title": "08B2Wissenswertes (fakultativ)",
+      "order": 8,
+      "blocks": [
+        {
+          "id": "compressed_a2_p16_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Situation",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Tendenz",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Arbeitschancen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Jobchancen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Zahl",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Journalisten",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Medien",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Lage",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson_1",
+      "title": "Menschen mit einem akademischen Abschluss haben bessere",
+      "order": 9,
+      "blocks": [
+        {
+          "id": "compressed_a2_p17_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Berufe",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Stelle",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Job",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Tätigkeiten",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Arzt",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Architekt",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Deutschlehrer",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Autos",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Apotheker",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Ingenieur",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Informatiker",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Zahnarzt",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Physiker",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Philosoph",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Wirtschaftsmathematiker",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Welt",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Jurist",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Wirtschaft",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p18_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Verben",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Fernseher",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Nähe",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p19_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Präfix",
+              "meaning": "ich unter richte",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Präfix",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Frage",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Verben",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Essen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson_1",
+      "title": "Kannst du mir diese Aufgabe",
+      "order": 10,
+      "blocks": [
+        {
+          "id": "compressed_a2_p20_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Himmel",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Konzert",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Theatervorstellung",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Zug",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Rechnung",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p21_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Zustand",
+              "meaning": "Wechsel von Ort oder Zustand alle anderen Verben",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson_1",
+      "title": "protestieren Wir haben",
+      "order": 11,
+      "blocks": [
+        {
+          "id": "compressed_a2_p22_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Verben",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Lorenzstraße",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Problem",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Party",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Party",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p23_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Reflexivpronomen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Blumen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Blumen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Blumen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Zimmer",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Zimmer",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Zimmer",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Geschenk",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Geschenk",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Geschenk",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Reflexivpronomen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Geschenk",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Hochzeit",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p24_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Baum",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Druckerdie",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Genus",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Regeln",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Fahrer",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": "Manager"
+            },
+            {
+              "german": "Wörter",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Waschmaschine",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p25_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Nomen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Chemiker",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Informat",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Ausbild",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Schül",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Frag",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Gymnasi",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Aut",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Les",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Comput",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Lehrer",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Nomen",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Wohnung",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Eins",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Restaurant",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Spanisch",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Direktor",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Wand",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Außenministerin",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Drucker",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Direktor",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Leiterineine",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Leiterineiner",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Leiterineiner",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Zimmer",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "das",
+              "plural": null
+            },
+            {
+              "german": "Baum",
+              "meaning": "der Baum  des Baumes; das Wort  des Wort es.",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p26_b0",
+          "type": "vocabulary",
+          "order": 0,
+          "content": [
+            {
+              "german": "Schule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Schule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Schule",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "die",
+              "plural": null
+            },
+            {
+              "german": "Kantine",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Arbeit",
+              "meaning": "einkaufen  kochen  fernsehen  Bücher lesen",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            },
+            {
+              "german": "Verben",
+              "meaning": "",
+              "part_of_speech": "noun",
+              "gender": "der",
+              "plural": null
+            }
+          ],
+          "tags": [
+            "vocabulary"
+          ]
+        },
+        {
+          "id": "compressed_a2_p28_b0",
+          "type": "exercise",
+          "order": 0,
+          "content": {
+            "type": "open_ended",
+            "instructions": "Begegnungen A 2+Kapitel1134Teil D | Rückblick\nvierunddreißigsich erinnern er erinnert sich er erinnerte sich er hat sich erinnert\nsich erkälten er erkältet sich er erkältete sich er hat sich erkältet\n",
+            "questions": []
+          },
+          "tags": [
+            "exercise"
+          ]
+        }
+      ]
+    }
+  ]
+}
